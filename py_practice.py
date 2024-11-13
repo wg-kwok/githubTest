@@ -18,7 +18,8 @@ from pptx.dml.color import RGBColor
 from openpyxl import load_workbook
 import pandas as pd
 import dataframe_image as dfi
-        
+#debugdebug
+
 def test1():
     
     path = r'C:\Scripts'
